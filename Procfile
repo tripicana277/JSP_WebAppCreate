@@ -1,0 +1,1 @@
+web: java -jar build/libs/GradleJSP_WebAppCreate-0.0.1-SNAPSHOT.war
